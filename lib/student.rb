@@ -1,5 +1,5 @@
 class Student 
   def hello 
-    "hello" 
+    puts "hello" 
   end
 end 
